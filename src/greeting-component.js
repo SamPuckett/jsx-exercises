@@ -6,7 +6,7 @@ class GreetingComponent extends React.Component {
         render "Hello, username." */
     render() {
         // Try all of these variations:
-        // let username = 'root';
+        let username = 'root';
         // let username = undefined;
         // let username = null;
         // let username = false;
