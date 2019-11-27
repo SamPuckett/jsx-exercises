@@ -41,8 +41,9 @@ ReactDOM.render(<MyThing/>, document.getElementById('root'));
         e) What happens if you use return inside a JS expression?
             ANSWER: I'm not exactly sure what this means.
         f) What about a function call like alert('hi')? Does it halt rendering?
-            ANSWER: Yes, it will halt rendering and then continue redering afterwards.
-        g) Try putting a quoted string inside JSX. DOes it strip out the quotes?
-            ANSWER: If we place a quotes string inside JSX to render, it will render exactly as we wrote
-            it. It will nor strip out all of the quotes.
-            */
+            ANSWER: Yes, 
+            
+            
+            
+            
+            \*/
